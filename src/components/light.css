@@ -1,0 +1,100 @@
+
+/* .bulb1{
+    border-radius: 50%;
+    padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 20%;
+  margin-left: 30%;
+  margin-top: 20%;
+  background-color: gray;
+  
+
+}
+
+.bulb2{
+    border-radius: 50%;
+    padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-color: gray;
+  
+   }
+
+   .switch1{
+       height: 40px;
+       width: 70px;
+       margin-left: 25%;
+      margin-top: 2%;
+       margin-right: 15%;
+       
+
+   }
+   .switch2{
+    height: 40px;
+    width: 70px;
+}
+.board{
+   border-style: double;
+   height: 250px;
+   width: 350px;
+   margin-left: 30%;
+   margin-top: 10%;
+  
+} */
+
+  
+  .board {
+      margin-top: 10%;
+    display: flex;
+    margin-left: 40%;
+    width: 350px;
+    height: 350px;
+    border-style:solid;
+    box-sizing: 10px;
+    border-color: black;
+  }
+  
+ 
+  
+  .bulbOne {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin-top: 10px;
+    display: flex;
+    margin-left: 10px;
+  }
+  
+  .bulbTwo {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin-top: 10px;
+    display: flex;
+    margin-left: 180px;
+    
+  }
+  
+ 
+  
+  .switchone {
+    height: 30px ;
+    width: 60px;
+    margin-top: 200px;
+    margin-left: 25px;
+    font-family: cursive;
+       
+  }
+  .switchtwo {
+    height: 30px ;
+    width: 60px;
+    margin-top: 200px;
+    margin-left: 180px;
+    font-family: cursive;
+  }
+  
+  
+  
